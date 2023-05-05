@@ -8,16 +8,13 @@
 Seurat object
 }
 \source{
-<https://www.10xgenomics.com/resources/datasets/pbm-cs-from-bal-bc-mice-5-gene-expression-1-standard-3-0-0>
+\href{https://www.10xgenomics.com/resources/datasets/pbm-cs-from-bal-bc-mice-5-gene-expression-1-standard-3-0-0}{https://www.10xgenomics.com/resources/datasets/pbm-cs-from-bal-bc-mice-5-gene-expression-1-standard-3-0-0}
 }
 \usage{
-pbmc
+data(pbmc)
 }
 \description{
 Seurat object of 31053 features across 8000 samples within 1 RNA assay with 2 dimensional reductions of pca and umap calculated.
 The object is a result of a rudimentary analysis pipeline of the raw barcode, features, and matrix files.
-}
-\examples{
-  pbmc
 }
 \keyword{datasets}

@@ -1,26 +1,24 @@
 {
-    "id": "DDE35CEC",
-    "path": "C:/Users/lu_41/Desktop/BM_internship/SCIPData/R/pbmc.R",
-    "project_path": "R/pbmc.R",
+    "id": "FB0A82E4",
+    "path": "C:/Users/lu_41/Desktop/BM_internship/SCIPData/tests/testthat.R",
+    "project_path": "tests/testthat.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1683301995365.0,
+    "created": 1683310811240.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "6,21",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1683307442,
+    "lastKnownWriteTime": 1683303531,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1683307442764,
+    "last_content_update": 1683303531,
     "read_only": false,
     "read_only_alternatives": []
 }

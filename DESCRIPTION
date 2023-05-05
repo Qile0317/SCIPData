@@ -10,8 +10,6 @@ Depends:
     R (>= 2.10)
 Description: A data package for testing the `APackOfTheClones` package. Contains public 10X Genomics datasets.
 License: MIT + file LICENSE
-LazyData: true
-LazyDataCompression: true
 RoxygenNote: 7.2.3
 Encoding: UTF-8
 Suggests: 

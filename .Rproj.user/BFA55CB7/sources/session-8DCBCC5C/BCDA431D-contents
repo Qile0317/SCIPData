@@ -4,6 +4,4 @@
 #'
 #' @source <https://www.10xgenomics.com/resources/datasets/pbm-cs-from-bal-bc-mice-tcr-enrichment-from-amplified-c-dna-1-standard-3-0-0>
 #' @format data.frame
-#' @examples
-#'   tcr_dataframe
 "tcr_dataframe"

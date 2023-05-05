@@ -6,6 +6,4 @@
 #' @source <https://www.10xgenomics.com/resources/datasets/pbm-cs-from-bal-bc-mice-5-gene-expression-1-standard-3-0-0>
 #' @format Seurat object
 #' @import Seurat
-#' @examples
-#'   pbmc
 "pbmc"
